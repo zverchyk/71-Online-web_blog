@@ -4,6 +4,9 @@
 .idea/
 .vscode
 
+#venv
+.kernel
+
 ### Also any macOS specific files
 .DS_Store
 .AppleDouble
